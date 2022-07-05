@@ -19,7 +19,7 @@ section {
 }
 .button-link {
   text-decoration: none;
-  background-color: linear-gradient(blue, orange);
+  background-image: linear-gradient(red, yellow);
   padding: 8px 40px;
   border-radius: 3px;
   color: black;
